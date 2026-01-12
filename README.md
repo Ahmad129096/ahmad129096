@@ -105,7 +105,7 @@ COMSATS Institute of Information and Technology (2017 – 2021)
 
 - 🌍 **Portfolio:** https://ahmad-hassan-mern.vercel.app  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ahmad-hassan-mern  
-- 📧 **Email:** hassanqaisar129096@yahoo.com  
+- 📧 **Email:** hassanqaisar129096@gmail.com  
 
 ---
 
