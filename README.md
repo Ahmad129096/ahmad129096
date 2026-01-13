@@ -211,24 +211,6 @@ const currentRole = {
 </details>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Option 1: Using main vercel instance -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad129096&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad129096&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=ahmad129096&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 <!-- 
 If the above images don't load, try these alternative deployments:
 
