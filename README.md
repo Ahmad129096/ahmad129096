@@ -216,26 +216,33 @@ const currentRole = {
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad129096&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad129096&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad129096&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmad129096&theme=tokyonight&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
+<!-- Option 1: Using main vercel instance -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad129096&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad129096&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=ahmad129096&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<!-- 
+If the above images don't load, try these alternative deployments:
+
+**Alternative 1 (Different deployment):**
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmad129096&show_icons=true&theme=tokyonight)
+
+**Alternative 2 (Sigma Five deployment):**
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad129096&show_icons=true&theme=tokyonight)
+
+**Alternative 3 (Simple version):**
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmad129096&show_icons=true)
+
+If none work, the service might be temporarily down. Wait a few minutes and refresh.
+-->
 
 ---
 
