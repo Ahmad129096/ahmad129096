@@ -1,183 +1,238 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmad Hassan
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;SaaS+%26+Marketplace+Specialist;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmad%20Hassan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Product%20Builder&descAlignY=51&descAlign=50"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+SaaS+%26+Marketplaces;React+%E2%9A%9B%EF%B8%8F+Next.js+%E2%9A%A1+Node.js+%F0%9F%9A%80;50K%2B+Transactions+%7C+99.9%25+Uptime;Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://ahmad-hassan-mern.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmad-hassan-mern"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hassanqaisar129096@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Experience-3%2B_Years-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯_Focus-SaaS_&_Marketplaces-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ahmadhassan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
-📍 **Lahore, Pakistan** | 💼 **3+ Years Experience** | 🚀 **10x Product Builder**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmad-hassan-mern.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-mern)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanqaisar129096@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+```javascript
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Ahmad Hassan";
+    this.role = "Full-Stack Engineer";
+    this.location = "Lahore, Pakistan 🇵🇰";
+    this.experience = "3+ years";
+  }
+  
+  getCurrentWork() {
+    return {
+      company: "ByteForge",
+      position: "Software Engineer",
+      tech: ["React", "Next.js", "Node.js", "PostgreSQL"],
+      focus: "Building scalable internal systems"
+    };
+  }
+  
+  getSkills() {
+    return {
+      frontend: ["React", "Next.js", "TypeScript", "Redux"],
+      backend: ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+      architecture: ["Microservices", "REST APIs", "System Design"],
+      specialties: ["Performance Optimization", "Scalable SaaS"]
+    };
+  }
+  
+  getStats() {
+    return {
+      monthlyTransactions: "50,000+",
+      systemUptime: "99.9%",
+      performanceGains: "20% faster load times",
+      userEngagement: "25% increase"
+    };
+  }
+}
+
+const ahmad = new SoftwareEngineer();
+```
+
+<br clear="right"/>
+
+### 🎯 What I Do Best
+
+<table>
+<tr>
+  <td align="center" width="25%">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px"/>
+    <br><b>Scalable Architecture</b>
+    <br><sub>Building systems that grow</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60px"/>
+    <br><b>Performance Tuning</b>
+    <br><sub>20% faster applications</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60px"/>
+    <br><b>Clean Code</b>
+    <br><sub>Maintainable & testable</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="60px"/>
+    <br><b>Product Delivery</b>
+    <br><sub>Ship fast, scale smart</sub>
+  </td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🎨 Frontend Technologies
+
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### 🗄️ Databases & ORMs
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Professional Journey
+
+<details open>
+<summary><b>🚀 Software Engineer @ ByteForge (Dec 2025 – Present)</b></summary>
+<br>
 
 ```typescript
-const ahmad = {
-  role: "Full-Stack Software Engineer",
-  experience: "3+ years",
-  specialization: [
-    "Production-grade SaaS platforms",
-    "E-commerce marketplaces", 
-    "POS & inventory systems",
-    "High-performance web applications"
+const currentRole = {
+  company: "ByteForge",
+  position: "Software Engineer",
+  location: "Lahore, Pakistan",
+  responsibilities: [
+    "🏗️ Building scalable internal systems with React, Next.js & PostgreSQL",
+    "🎯 Contributing to architecture design and performance optimization",
+    "📊 Improving code quality & engineering standards across teams",
+    "⚡ Driving feature delivery with focus on maintainability"
   ],
-  philosophy: "Ship fast, scale smart, build maintainable",
-  impact: {
-    monthlyTransactions: "50,000+",
-    uptime: "99.9%",
-    focus: "Real-world products, not just code"
-  }
+  impact: "Setting new standards for system reliability and performance"
 };
 ```
 
+</details>
+
 <details>
-<summary>🔥 <b>What Makes Me Different</b></summary>
+<summary><b>💎 Software Engineer @ SeeBiz Pvt Ltd (May 2022 – Nov 2025)</b></summary>
 <br>
 
-- **🏗️ Architecture-First:** I design systems that scale from day one
-- **⚡ Performance Obsessed:** 20% faster load times, 25% better engagement
-- **🎯 Product-Minded:** I think beyond code—I build solutions that drive business value
-- **🤝 Team Player:** Reduced code review time by 30% through better standards
-- **📈 Results-Driven:** Every line of code maps to measurable outcomes
+<div align="center">
+
+### 📊 Key Achievements
+
+| Metric | Result | Impact |
+|--------|--------|--------|
+| 🛒 **E-commerce Platform** | Full-featured marketplace | 50,000+ monthly transactions |
+| ⚡ **Performance** | Memoization & code splitting | 20% faster page loads |
+| 👥 **User Engagement** | Enhanced UX patterns | 25% longer sessions |
+| 💰 **Conversions** | Improved user flows | 15% increase |
+| ⏱️ **Code Reviews** | Modular architecture | 30% faster reviews |
+| 🎯 **Uptime** | Production reliability | 99.9% availability |
+
+</div>
+
+**Technical Highlights:**
+- Built scalable frontend with React, Redux Toolkit & TypeScript
+- Implemented code splitting and lazy loading for optimal performance
+- Established linting standards and best practices
+- Created reusable component library used across multiple projects
+- Integrated payment gateways and real-time notifications
+
+</details>
+
+<details>
+<summary><b>🔨 Associate Software Engineer @ SeeBiz (May 2022 – Jun 2023)</b></summary>
+<br>
+
+- 📊 Developed reusable dashboards with React Hook Form & Chart.js
+- 🔗 Integrated backend APIs with optimized query handling
+- 🧪 Practiced Agile methodologies with comprehensive testing
+- 🎨 Built responsive UI components for internal tools
+
+</details>
+
+<details>
+<summary><b>🌱 Software Engineer Intern @ BizzClan (Feb 2021 – Apr 2022)</b></summary>
+<br>
+
+- 🎯 Built responsive dashboards with React.js & Chart.js
+- ⚡ Improved frontend performance by 20% through optimization
+- 🔧 Assisted in REST API development and system integrations
+- 📚 Learned production-grade development practices
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-```javascript
-const frontend = {
-  frameworks: ['React.js', 'Next.js'],
-  languages: ['TypeScript', 'JavaScript'],
-  stateManagement: ['Redux Toolkit'],
-  forms: ['React Hook Form'],
-  styling: ['Tailwind CSS', 'Material-UI'],
-  tools: ['Webpack', 'Vite']
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-```javascript
-const backend = {
-  runtime: ['Node.js'],
-  frameworks: ['Express.js'],
-  databases: ['PostgreSQL', 'MongoDB'],
-  orm: ['Prisma', 'Mongoose'],
-  architecture: ['REST APIs', 'Microservices'],
-  optimization: ['Caching', 'Query Optimization']
-};
-```
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
 
-### 🔧 Tools & DevOps
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 💼 Professional Experience
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🚀 **Software Engineer** — ByteForge
-**Dec 2025 – Present** | Lahore, Pakistan
-
-- 🏗️ Building scalable internal systems with **React, Next.js, Node.js & PostgreSQL**
-- 🎯 Contributing to **architecture design** and performance optimization
-- 📊 Improving engineering standards and code quality across teams
-- ⚡ Driving feature delivery with focus on **maintainability** and **scalability**
-
-<br clear="right"/>
-
----
-
-### 💎 **Software Engineer** — SeeBiz Pvt Ltd
-**May 2022 – Nov 2025** | Lahore, Pakistan
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-| 🎯 Achievement | 📈 Impact |
-|:---|:---|
-| Built full-featured **e-commerce marketplace** | **50K+ monthly transactions** |
-| Optimized performance with memoization | **20% faster page loads** |
-| Enhanced UX with modern patterns | **25% longer sessions, 15% more conversions** |
-| Implemented modular architecture | **30% faster code reviews** |
-| Maintained production systems | **99.9% uptime** |
-
-</div>
-
-**Key Highlights:**
-- 🎨 Architected **scalable frontend** with React, Redux Toolkit, and TypeScript
-- ⚡ Implemented **code splitting** and lazy loading for optimal performance
-- 🔧 Established **linting standards** and best practices
-- 📦 Built **reusable component library** used across multiple projects
-
----
-
-### 🔨 **Associate Software Engineer** — SeeBiz
-**May 2022 – Jun 2023**
-
-- 📊 Developed **reusable dashboards** with React Hook Form & Chart.js
-- 🔗 Integrated **backend APIs** with optimized query handling
-- 🧪 Practiced **Agile methodologies** with comprehensive testing
-
----
-
-### 🌱 **Software Engineer Intern** — BizzClan
-**Feb 2021 – Apr 2022**
-
-- 🎯 Built **responsive dashboards** with React.js & Chart.js
-- ⚡ Improved frontend performance by **20%** through optimization
-- 🔧 Assisted in **REST API development** and system integrations
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -186,18 +241,22 @@ const backend = {
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
 ### 🎓 Education
-**BS Computer Science**  
-COMSATS Institute of Information and Technology  
-📅 2017 – 2021
+<img src="https://img.shields.io/badge/BS_Computer_Science-0078D4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+**COMSATS Institute of Information Technology**  
+📅 2017 – 2021  
+🎯 Focus: Software Engineering, Data Structures, Algorithms
 
 </td>
-<td width="40%">
+<td width="50%" valign="top">
 
 ### 🏆 Certifications
-- ✅ MongoDB Document Model
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+- ✅ From Relational Model (SQL) to MongoDB's Document Model
 - ✅ React Developer Certification
 
 </td>
@@ -206,56 +265,130 @@ COMSATS Institute of Information and Technology
 
 ---
 
-## 🎯 What I Can Help You Build
+## 💼 What I Can Build For You
 
 <div align="center">
 
-| 💼 SaaS Platforms | 🛒 Marketplaces | 📊 POS Systems | 🎨 Dashboards |
-|:---:|:---:|:---:|:---:|
-| Scalable architecture | Payment integration | Inventory management | Real-time analytics |
-| Multi-tenant systems | Search & filters | Order processing | Custom reports |
-| Authentication & roles | Vendor management | Receipt generation | Data visualization |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh0aGc5bWh6cXhmeW84dGJuNmU3a3IzczFhbjhvdzQyYm4yZGhxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+
+### 🚀 SaaS Platforms
+- Multi-tenant architecture
+- Role-based access control
+- Payment integration
+- Analytics dashboards
+- Automated workflows
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200"/>
+
+### 🛒 Marketplaces
+- Vendor management
+- Product catalogs
+- Search & filtering
+- Order processing
+- Review systems
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+
+### 📊 Business Tools
+- POS systems
+- Inventory management
+- Real-time analytics
+- Custom reports
+- API integrations
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 My Approach
+## 🎯 My Development Philosophy
 
 ```mermaid
-graph LR
-    A[Understand Requirements] --> B[Design Architecture]
-    B --> C[Build MVP Fast]
-    C --> D[Iterate & Optimize]
-    D --> E[Scale & Maintain]
-    E --> F[Monitor & Improve]
-    F --> D
+graph TD
+    A[🎯 Understand Business Goals] --> B[🏗️ Design Scalable Architecture]
+    B --> C[⚡ Build MVP Fast]
+    C --> D[🧪 Test Thoroughly]
+    D --> E[🚀 Deploy with Confidence]
+    E --> F[📊 Monitor & Measure]
+    F --> G[🔄 Iterate & Optimize]
+    G --> F
+    
+    style A fill:#58A6FF,stroke:#0D1117,stroke-width:2px,color:#fff
+    style B fill:#238636,stroke:#0D1117,stroke-width:2px,color:#fff
+    style C fill:#F85149,stroke:#0D1117,stroke-width:2px,color:#fff
+    style D fill:#A371F7,stroke:#0D1117,stroke-width:2px,color:#fff
+    style E fill:#D29922,stroke:#0D1117,stroke-width:2px,color:#fff
+    style F fill:#58A6FF,stroke:#0D1117,stroke-width:2px,color:#fff
+    style G fill:#238636,stroke:#0D1117,stroke-width:2px,color:#fff
 ```
 
 ---
 
-## 🤝 Let's Connect & Build
+## 📈 Weekly Development Breakdown
 
-<div align="center">
-
-### 💡 **I help teams ship faster, scale better, and avoid costly mistakes**
-
-<p>
-  <a href="https://ahmad-hassan-mern.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF5722?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad-hassan-mern">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0077B5?style=for-the-badge" />
-  </a>
-  <a href="mailto:hassanqaisar129096@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge" />
-  </a>
-</p>
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░   48.2%
+JavaScript   8 hrs 15 mins   ████████░░░░░░░░░   31.8%
+React/JSX    3 hrs 45 mins   ███░░░░░░░░░░░░░░   14.5%
+CSS/SCSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░    5.5%
+```
+<!--END_SECTION:waka-->
 
 ---
 
-### ⭐ **If you find my work valuable, consider starring some repositories!**
+## 🤝 Let's Build Something Amazing Together
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+
+### 💡 I Help Teams Ship Faster & Scale Smarter
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to exciting opportunities</b> and collaboration!</em>
+
+<br><br>
+
+<a href="https://ahmad-hassan-mern.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ahmad-hassan-mern">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:hassanqaisar129096@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logoColor=white" />
+</a>
+
+<br><br>
+
+### 🌟 If you find my work valuable, star my repositories!
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+<div align="center">
+
+**⭐ Show some love by starring repositories you find interesting!**
 
 </div>
