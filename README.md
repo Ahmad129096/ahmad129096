@@ -212,27 +212,29 @@ const currentRole = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
+<table>
+<tr>
+<td>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
----
+</td>
+<td>
 
-## 🏆 GitHub Trophies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -313,37 +315,28 @@ const currentRole = {
 
 ## 🎯 My Development Philosophy
 
+<div align="center">
+
 ```mermaid
-graph TD
-    A[🎯 Understand Business Goals] --> B[🏗️ Design Scalable Architecture]
-    B --> C[⚡ Build MVP Fast]
-    C --> D[🧪 Test Thoroughly]
-    D --> E[🚀 Deploy with Confidence]
-    E --> F[📊 Monitor & Measure]
-    F --> G[🔄 Iterate & Optimize]
+graph LR
+    A[🎯 Understand] --> B[🏗️ Design]
+    B --> C[⚡ Build MVP]
+    C --> D[🧪 Test]
+    D --> E[🚀 Deploy]
+    E --> F[📊 Monitor]
+    F --> G[🔄 Optimize]
     G --> F
     
-    style A fill:#58A6FF,stroke:#0D1117,stroke-width:2px,color:#fff
-    style B fill:#238636,stroke:#0D1117,stroke-width:2px,color:#fff
-    style C fill:#F85149,stroke:#0D1117,stroke-width:2px,color:#fff
-    style D fill:#A371F7,stroke:#0D1117,stroke-width:2px,color:#fff
-    style E fill:#D29922,stroke:#0D1117,stroke-width:2px,color:#fff
-    style F fill:#58A6FF,stroke:#0D1117,stroke-width:2px,color:#fff
-    style G fill:#238636,stroke:#0D1117,stroke-width:2px,color:#fff
+    style A fill:#58A6FF
+    style B fill:#238636
+    style C fill:#F85149
+    style D fill:#A371F7
+    style E fill:#D29922
+    style F fill:#58A6FF
+    style G fill:#238636
 ```
 
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░   48.2%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░░░   31.8%
-React/JSX    3 hrs 45 mins   ███░░░░░░░░░░░░░░   14.5%
-CSS/SCSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░    5.5%
-```
-<!--END_SECTION:waka-->
+</div>
 
 ---
 
@@ -380,15 +373,9 @@ CSS/SCSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
-  
-### 💭 Quote of the Day
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
-<div align="center">
 
 **⭐ Show some love by starring repositories you find interesting!**
+
+**Made with ❤️ by Ahmad Hassan**
 
 </div>
