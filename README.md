@@ -122,15 +122,6 @@ const ahmad = {
 - Delivered client web apps and REST APIs with JWT auth and strict input sanitization.
 - Built responsive React and Tailwind dashboards to client design specs.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad129096&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e14&title_color=6fdd78&icon_color=7bd0ff" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad129096&layout=compact&theme=radical&hide_border=true&bg_color=0a0e14&title_color=6fdd78" alt="Top languages" />
-
-</div>
-
 ## 📫 Let's Work Together
 
 I'm open to full-time roles, contract sprints and consulting. The fastest way to reach me is email or WhatsApp.
